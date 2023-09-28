@@ -1,5 +1,5 @@
 # progetto_GEP
-[requisiti]
+REQUISITI
 problemi:
 
 1- caricamento della propria musica
