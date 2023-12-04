@@ -25,3 +25,13 @@ UML PTOGETTO:
 (carica canzoni)<(abbonati)
 (abbonati)>(assegna abbonamento)
 [azienda]>(assegna abbonamento)
+
+
+VALUE PROPOSITION:
+
+Discovery your Music
+![logo](https://github.com/cesatag0/progetto_GEP/assets/101175014/bfa924b0-f27c-4793-98d9-95d4ae12eff5)
+1- Promuovi la tua musica
+2- Scopri nuovi talenti
+3- Raggiungi il TOP
+![IMG_4148](https://github.com/cesatag0/progetto_GEP/assets/101175014/7a6365e8-7c7d-4a55-8c64-e8c7bf3b3fbf)
