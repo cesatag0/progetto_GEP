@@ -53,7 +53,7 @@ UML PTOGETTO:
 VALUE PROPOSITION:
 
 
-Discovery your Music
+DYM (Discovery your Music)
 
 ![logo](https://github.com/cesatag0/progetto_GEP/assets/101175014/bfa924b0-f27c-4793-98d9-95d4ae12eff5)
 
@@ -62,3 +62,22 @@ Discovery your Music
 2- Scopri nuovi talenti
 
 3- Raggiungi il TOP
+
+
+
+User Story:
+
+
+Ascoltatore occasionale:
+
+In quanto ascoltatore occasionale, voglio poter trovare facilmente brani che potrebbero piacermi, tramite etichette e generi musicali differenti.
+
+
+Ascoltatore abituale:
+
+In quanto utente abituale, voglio ricevere avvisi e annunci basati sulla mia cronologia di ascolto e gli artisti che mi piacciono, in modo tale da scoprire nuove canzoni e artisti che potrebbero piacermi.
+
+
+Emergente:
+
+In quanto emergente, voglio poter promuovere la mia musica in modo facile, e arrivare nelle home page di piu persone possibili
