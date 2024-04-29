@@ -81,3 +81,14 @@ In quanto utente abituale, voglio ricevere avvisi e annunci basati sulla mia cro
 Emergente:
 
 In quanto emergente, voglio poter promuovere la mia musica in modo facile, e arrivare nelle home page di piu persone possibili
+
+
+Pivot:
+
+Visti i recenti problemi con il possibile guadagno dall'applicazione ho deciso di modificare il modello di business
+
+ - 1 tipo (user - creator)
+ - Freemium: ascolto con publicità
+ - Premium 4,99€/mese: ascolto senza pubblicità
+
+Il guadagno deriverà dalle pubblicità e dagli abbonamenti, senza dover far pagare gli artisti per pubblicare il proprio materiale
